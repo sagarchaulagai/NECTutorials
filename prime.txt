@@ -1,12 +1,174 @@
-.primevideo.com	TRUE	/	FALSE	1709069072	at-main-av	Atza|IwEBIGhr0F3P26RIy-wREXbdXEp-8sXZB4UOfZgahXes-wquuhWvy3_4qTL_lpyW7VfEYOmbgYWoYTIma8ZtIP3R9qz0hPN1a_iWotkOyDx2zdY8SQBt118QDrp8f8YkDum351JUsi62XVZZSXCZHwJy1d9F_swRky6Lbj3R3hOJhG2sFqGa1Z8doRxG7xtFdeQH0T2kF1-ghvJPyo0IalV6mCjroGnutZqRCTTtM_U85SAAANG7DDTuNhvUOwOV1TYCjWTdyVALSyHhk-2XyRU-YqyZh4HViDj83JLFj4QQvpM-KrosXjuOhhdsSKUNHe5UXXBcY1QxKkEsfld-leI5F30Y-hotHsU8Y1BBW57UYItJuA
-.primevideo.com	TRUE	/	FALSE	1680125071	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQUZZTTg5SVhBOElIWCZ0aW1lc3RhbXA9MTY3NzUzMzA3Mjc4NSZ2ZXJzaW9uPXYx.gzvxgyHlbM7bopVbVGaxX3db8vWJqg1qvmZPSHg9oTJnAAAAAQAAAABj_R-QcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
-.primevideo.com	TRUE	/	FALSE	1709069071	i18n-prefs	USD
-.primevideo.com	TRUE	/	FALSE	1712093071	lc-main-av	fi_FI
-.primevideo.com	TRUE	/	FALSE	1709069072	sess-at-main-av	"sadCRecfWeS/UnlQmqKxWPpCmTBWqBdPczHzgN/7KWk="
-.primevideo.com	TRUE	/	FALSE	1709069071	session-id	262-5041352-1208208
-.primevideo.com	TRUE	/	FALSE	1709069071	session-id-time	2082787201l
-.primevideo.com	TRUE	/	FALSE	1709069072	session-token	"oSAw0UH6dIuXqpF/IQAvpt/5Nud3jJEgUpSyrZi/wL/xo4eQ7/k8tD0NeS9spxvUt75nhpS9nB1mzLTurHsAzZJH7EsvZJnwhZXwE+MKZGu5u3K3aWPP53DOjiZOgREOjXZsYfzzcFobgQuKoUhCfrezE8sUDVFgwharzcJHNnRf8imQ1JgZASOuXRh1SIA9ZJlHYXr1fjddJbexU04/nIt4PlVIpYq690GTu8enVakK/qTwyKWrm3lE5058wow1Ajkd9QibyUrSTjdu7Zf/jPTqe0smqGX10HY9rTfzI1U="
-.primevideo.com	TRUE	/	FALSE	1709069071	ubid-main-av	260-4533268-5965527
-.primevideo.com	TRUE	/	FALSE	1709069071	x-main-av	"XFFDUeW@T9aLPDhSqGT4@qnlJmU5gO2NFBUk8KyVxjMUXDkc6zxW@dvfxpODNjVP"
-www.primevideo.com	FALSE	/	FALSE	1707773310	csm-hit	tb:993RE3A062T5210WQGD5+s-1ZASR05KM5Q1QVVAMNZG|1677533310269&t:1677533310269&adb:adblk_no
-.primevideo.com	TRUE	/	FALSE	1709069352	av-timezone	Europe/Helsinki
+[
+    {
+        "name": "session-token",
+        "value": "\"paHdRTyjUuchWigWIMiio4cEQZPk8dgASMF3ZYB/POeSNEPRzApc8eU35GKCN1+6Y8rNdRc9DrJEKEs8MZVLQei+ryRh/dDHyJF0+f745Vi+lAwekfPHd5b3U5bOWvF6sP3CqBHxjZXBB5Rkaw/ntTArBZJR7CZRuBemWVTd27rGBcoKFKeHrXbCkYiCfH792F8JMyGE1n3QLpaTfEAy30RfxmdhysuEVEpg95D5O5JTLy4wVSaIGkt3LNIaXN/x8iD/CnqpC6TU5M8YPIy4ztCXAT0UMMUNu7S/9UN63f73G+EhQcMN6z3QbH4xgwKc6Wi9z4N9YDILfoSdIJUy8cxR+Cp1f07xCGe08iw3DnxScMFt+H71PzABIhhQM/oOFBXLIsvXpXlPENMPyCvA5XtNZpzjv85mLsMn8j+qDi/WAxyhzp9IEw==\"",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1734534550,
+        "storeId": null
+    },
+    {
+        "name": "csm-hit",
+        "value": "adb:adblk_no&t:1702998552043&tb:s-EAM1ADA1AC6XDFNKK5C6|1702998551209",
+        "domain": "www.primevideo.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1733238552,
+        "storeId": null
+    },
+    {
+        "name": "i18n-prefs",
+        "value": "USD",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "x-main-av",
+        "value": "\"MHiIWSxnrPK7S96e3yMW@SSP9a3zEQItHqcEZXlt9KhkUiARn0?qfxsxo@AMdLcu\"",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "sess-at-main-av",
+        "value": "\"mAJnxi3Em9HUdbSQE8PKJxows956l7K8cs27XiZgZT8=\"",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "av-profile",
+        "value": "cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTJZVjBHMFNLRDFZUlEmdGltZXN0YW1wPTE3MDI5OTg1NTA1NjImdmVyc2lvbj12MQ.g1b7WjjN3gUEw0p09hT_0QQ4CLPC_tJctcMnGEYipspVAAAAAQAAAABlgbIWcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1705590549,
+        "storeId": null
+    },
+    {
+        "name": "lc-main-av",
+        "value": "es_ES",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "at-main-av",
+        "value": "Atza|IwEBIIqHVEPFpdAF_5LLcFGJuWN44chKv0fjyWoSeVsV8gWwZyxKoLJ8tSwqDMXRxhKaqob3BFylFrO1pOCOWnXo9soXRlXb_Vkn8oGG8baVNh6IN9YKM2ljDUmxtIJ1vqvNQwzFLqoQMwTXCQsZ8Es5Yjx0WQpNyESOYLhsNUebtRrnvWIaKf7PzPNWovq_uL4vo2pCNFvQiCFEGeA0yJdTAAKf52Vz0cy6CkKWuo-qtbalfMJKRFHn9AMJMECm6B05zuvGgDcSu36JMA7ylZ311EcH",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "session-id-time",
+        "value": "2082787201l",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "av-timezone",
+        "value": "Asia/Kathmandu",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1734534550,
+        "storeId": null
+    },
+    {
+        "name": "session-id",
+        "value": "262-1727243-4511123",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "ubid-main-av",
+        "value": "258-0211374-8617956",
+        "domain": ".primevideo.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    }
+]
