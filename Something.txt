@@ -1,7 +1,7 @@
 [
     {
         "name": "SecureNetflixId",
-        "value": "v%3D2%26mac%3DAQEAEQABABS-OXVVB_haSraipzixIqBKfOHsNkh59LI.%26dt%3D1703170548408",
+        "value": "v%3D2%26mac%3DAQEAEQABABQ6sK1nv19E6eCcdbQYCVdo4N1917XuBNg.%26dt%3D1703178863494",
         "domain": ".netflix.com",
         "hostOnly": false,
         "path": "/",
@@ -11,7 +11,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1734706548,
+        "expirationDate": 1734714863,
         "storeId": null
     },
     {
@@ -26,12 +26,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1703172343,
+        "expirationDate": 1703180658,
         "storeId": null
     },
     {
         "name": "NetflixId",
-        "value": "v%3D2%26ct%3DBQAOAAEBEN42TBCVg6YvgZMFr5JEQiiBwG0hMaSfHoTA9UVu5geigwYaogzZHoeFCEn6qmvDYBlnaabyOJz4yJM_wPSwlEuZ3d9l_X_H5qDlrvf_Iy2u92kedaziCOKgPaOFJh7Zf-4hv6mfn9hVxk7yzIpEfcVWnJcehSmKrRvgR0prV701WX7kVOOyK2oJYuy8TDzh4Dv1EWjv9KZDesxTYqk5YHSFhCJqX1HciNuXrv5J-beAlx2kQNkdJdgVkpfPcKZGTnYWtJ7fZfUfduCcTrMo1kIXXqxdB2TvjRcrXoitC0kySrCtyfWVmJ0bw4uwnGRCk-bWt68Wxxz2DZt4C7xPlyZyEXSP51ij-miHnMnse2-6B_-zgv6Tr7nW0ozlCacaOWaqMBdrGZQ8tfEIhS_qpMMq9BKtg_9IjkJysDyeL-t3TnrSXKePnTgz8MmaS8mF5_M1kqr9F_Sv2iS94A_gcFIQmoMswOrFpLu2f0Fsvp9z2wERUXP3gbPc5fqjl5QzFjdyvDpAemqCimMh1IMbwRFxge0tLeRtyL2GsB2gRq7tphRIKoEx5gAdgIjUJL0VfgptNVFs5X0pPQU45N08DYNqF30E7GKxC900boFWJDh6iH0.%26bt%3Ddbl%26ch%3DAQEAEAABABQHrJQWoTh4U2i81NIT0rU7tr98Y8kt9Tg.%26mac%3DAQEAEAABABTnfCM7Tzdhg4PCUSxs4rAmkvTu6mPlPrU.",
+        "value": "v%3D2%26ct%3DBQAOAAEBEERrC3PiZimfzL1kPjV4iIiBwFTZc6PocwYQ89MXEqqyIb1MQcZwO1o36L_09DoQQnYoury-WLZaEOzq1aLl1XUvA_nN_wmVG0jtIXPfDeU4GbVfYHRdjJFSvbk-6sEkN_hvEL-00KQausPc9gZB-aK5gtFQH-5xH_acGd-NV5hLmkXx9DTjzNaqgQ6hc_0M5TsPPcLD98pmDgg124tmAZyhInOzIhRbgHUZ3Qlp3eGf0QlBMWExNWCxHfZ8eGsGNpd8FEgUbi3PI-qSWehLX_X607mrj_oDIzWvi7xQBb0LqOjEP-zZkeejhtzvyDSW6hUEYNwUqC-POMNROGfbjUPilAtIwCRfzO8S85AVyDHWYxoNxrmvVXNiwnBRBuPCeN1i88_d6O9KzBhQMqFgz4WkaF11QlasozWWXeG0yQASMk-YTkHDLf6hsNercDwwxoe3tv5PH-wz9_Pquh8cu6FSRaxpjLkFP6HMQzLKVwXuDh00Ge_pkxBXgI4er_9mlt-_W0q-bR15Twt0yjipjRg02liv5ThdV6xdcEqhVbSjwh84lWQvu_GMhfl1GbClYHlY6ytHlmXYf_f_LVOkabZNnJhHH0E0SR1l__5n-ht0Qgc.%26bt%3Ddbl%26ch%3DAQEAEAABABRT15I5Rw3EklcXq6uTU-H2w4a_5J2F8ic.%26mac%3DAQEAEAABABSwmymhCzonnc9Vhpn0sNmBO-GqZPugmpU.",
         "domain": ".netflix.com",
         "hostOnly": false,
         "path": "/",
@@ -41,27 +41,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1734706548,
-        "storeId": null
-    },
-    {
-        "name": "pas",
-        "value": "%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D",
-        "domain": ".netflix.com",
-        "hostOnly": false,
-        "path": "/",
-        "secure": false,
-        "httpOnly": false,
-        "sameSite": "no_restriction",
-        "session": false,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1710946549,
+        "expirationDate": 1734714863,
         "storeId": null
     },
     {
         "name": "OptanonConsent",
-        "value": "isGpcEnabled=0&datestamp=Thu+Dec+21+2023+20%3A40%3A44+GMT%2B0545+(Nepal+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=db0d06d5-f2e5-49e0-acfe-20f66f28a803&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false",
+        "value": "isGpcEnabled=0&datestamp=Thu+Dec+21+2023+22%3A59%3A16+GMT%2B0545+(Nepal+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=6463ba4b-a781-496b-a574-9b3d33ccc8ed&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false",
         "domain": ".netflix.com",
         "hostOnly": false,
         "path": "/",
@@ -71,12 +56,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1734706544,
+        "expirationDate": 1734714856,
         "storeId": null
     },
     {
         "name": "flwssn",
-        "value": "a9e4999e-64ad-439b-9725-86d415fe4325",
+        "value": "402fd9b3-b070-43ee-95ed-808ad3d6c701",
         "domain": ".netflix.com",
         "hostOnly": false,
         "path": "/",
@@ -86,12 +71,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1703181339,
+        "expirationDate": 1703189653,
         "storeId": null
     },
     {
         "name": "nfvdid",
-        "value": "BQFmAAEBEPI0p1SlqQRV9PTcB5hD801gB82kv2kyK9VloDZyWmIFJhgb3nPVEkeum5zlvTF4NhEsHn22S7N5w4PMIaRm_StSoSjNsbX_-89PEKcR2v3p5cmiRBPQ9xb6ENbF075zjD2oXiAv0Uh3fH6twRSnLxt4",
+        "value": "BQFmAAEBEBjw354EAalVgdlfaonapc1gYE_lBUon7TZgJBIp0dQfE0ddVOuYN8G3oSSCTNEKxKRmtx5x-NLhrjcY3QBhVxGN3FqndVyRWBh_c-ql1ijIDoPaq_jrpKcheFiqyEuRcfYMMfoJayWUAvNn1bmJJepi",
         "domain": ".netflix.com",
         "hostOnly": false,
         "path": "/",
